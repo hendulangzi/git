@@ -3,4 +3,4 @@
 http://stackoverflow.com/
 # 2、cnpm 安装
 npm install -g cnpm –registry=https://registry.npm.taobao.org
-# 3、[git常用命令](http://)
+# 3、[git常用命令](https://github.com/hendulangzi/git/blob/master/git_cmd.md)
